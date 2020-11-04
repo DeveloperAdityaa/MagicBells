@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1065628220064",
+    "firebase_url": "https://magicbells-73a1c.firebaseio.com",
+    "project_id": "magicbells-73a1c",
+    "storage_bucket": "magicbells-73a1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065628220064:android:afe19f8f157626bff3e7c5",
+        "android_client_info": {
+          "package_name": "com.example.magicbells"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065628220064-8k3uild8m4p1co7oinlrha1ecrepebft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcgAIy2yfn9YNL6LY2vliXft2uvewbYUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065628220064-8k3uild8m4p1co7oinlrha1ecrepebft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
